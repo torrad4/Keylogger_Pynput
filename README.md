@@ -14,5 +14,5 @@ Hellow, this is my first project in github
  search in google -><br>
  ![alt text](https://preview.ibb.co/b6Z0Op/2018-10-13-13-40.png)
  <br>
-  **This is a result!**<br>
+  **This is the result!**<br>
  ![alt text](https://preview.ibb.co/kia73p/2018-10-13-13-43.png)<br>
