@@ -8,7 +8,7 @@ Hellow, this is my first project in github
   <p style="margin: 30px">pip3 install pynput</p>
 </ul>
     
- As soon as you run the python script, it will start capturing keys<br>
+ When you run the python script, it will being capture of keys<br>
  ![alt text](https://image.ibb.co/cXCRw9/2018-10-13-13-39.png)
  <br>
  search in google -><br>
